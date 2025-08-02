@@ -66,4 +66,6 @@
    72  git remote set-url t
    75  git push origin master 
    76  clear
-   77  history
+   77  history 
+
+this is new changes
