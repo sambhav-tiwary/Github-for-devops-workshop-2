@@ -1,6 +1,5 @@
 
-   clear
-   ls
+   clea
     8  ls -l
     9  clear
    10  ls -ltr
@@ -59,15 +58,12 @@
    63  git restore git-commands.txt
    64  clear
    65  git status
-   66  git remote add origin https://github.com/sambhav-tiwary/Github-for-devops-workshop-2.git
-   67  git remote -v
+   66  git remote add 
    68  clear
    69  git push origin master
    70  clear
    71  git remote -v
-   72  git remote set-url origin https://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
-   73  git remote set-url origin https://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@github.com/sambhav-tiwary/Github-for-devops-workshop-2.git
-   74  git remote -v
-   75  git push origin master
+   72  git remote set-url t
+   75  git push origin master 
    76  clear
    77  history
